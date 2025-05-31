@@ -150,7 +150,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - [GitHub Profile](https://github.com/nilanto-ashik)
+- Nilanto Ashik - [GitHub Profile](https://github.com/nilanto-ashik)
 
 ## 📞 Support
 
