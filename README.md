@@ -150,12 +150,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - [GitHub Profile](https://github.com/yourusername)
+- Your Name - [GitHub Profile](https://github.com/nilanto-ashik)
 
 ## 📞 Support
 
 If you have any questions or issues, please open an issue on GitHub or contact us at:
-- Email: your.email@example.com
+- Email: nilantoashik@gmail.com
 - GitHub Issues: [Project Issues](https://github.com/yourusername/ecommerce-website/issues)
 
 ## 🎯 Future Enhancements
